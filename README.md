@@ -10,10 +10,10 @@
 
 ## Problem Statistics
 
-- **GeeksforGeeks:** Solved a total of 230 problems.
+- **GeeksforGeeks:** Solved a total of 
   ![GeeksforGeeks Stats](https://img.shields.io/badge/GeeksforGeeks-230%20problems-%23FF6600?style=for-the-badge&logo=geeksforGeeks)
   
-- **LeetCode:** Solved a total of 23 problems.
+- **LeetCode:** Solved a total of 
   ![LeetCode Stats](https://img.shields.io/badge/LeetCode-23%20problems-%23FF6600?style=for-the-badge&logo=LeetCode)
 ****
 
