@@ -3,8 +3,19 @@
 - Pursuing MCA with the aspirations to become a Java Backend Developer, Software Engineer, or Security Analyst.
 - Completed BSc in Computer Technology.
 - Proficient in Java; published booklet "Anne's Rise to Success."
-- Experienced in writing and freelancing on • Android Development • Web Design • Writing.
+-Experienced in writing and freelancing on:
+    Android Development
+    Web Design
+    Writing
 
+## Problem Statistics
+
+- **GeeksforGeeks:** Solved a total of 230 problems.
+  ![GeeksforGeeks Stats](https://img.shields.io/badge/GeeksforGeeks-230%20problems-%23FF6600?style=for-the-badge&logo=geeksforGeeks)
+  
+- **LeetCode:** Solved a total of 23 problems.
+  ![LeetCode Stats](https://img.shields.io/badge/LeetCode-23%20problems-%23FF6600?style=for-the-badge&logo=LeetCode)
+****
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just____supreeth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/supreeth-ragavendra-s-203144244/) 
