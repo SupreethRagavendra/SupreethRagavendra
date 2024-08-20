@@ -4,9 +4,9 @@
 - Completed BSc in Computer Technology.
 - Proficient in Java; published booklet "Anne's Rise to Success."
 -Experienced in writing and freelancing on:
-    Android Development
-    Web Design
-    Writing
+ <br>   Android Development
+   <br> Web Design
+  <br>  Writing
 
 ## Problem Statistics
 
