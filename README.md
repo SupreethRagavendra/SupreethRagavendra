@@ -3,7 +3,7 @@
 - Pursuing MCA with the aspirations to become a Java Backend Developer, Software Engineer, or Security Analyst.
 - Completed BSc in Computer Technology.
 - Proficient in Java; published booklet "Anne's Rise to Success."<br>
--Experienced in writing and freelancing on:
+- Experienced in writing and freelancing on:
  <br>   Android Development
    <br> Web Design
   <br>  Writing
