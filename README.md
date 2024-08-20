@@ -1,5 +1,9 @@
 # 💫 About Me:
-I have completed my BSc Computer Technology at Kongunadu Arts and Science College. Proficient in Java programming. Published "Anne's Rise to Success" on KDP Amazon. Enhanced writing skills through an internship at Team Everest NGO. Offering my freelancing services.<br>
+
+- Pursuing MCA with the aspirations to become a Java Backend Developer, Software Engineer, or Security Analyst.
+- Completed BSc in Computer Technology.
+- Proficient in Java; published booklet "Anne's Rise to Success."
+- Experienced in writing and freelancing on • Android Development • Web Design • Writing.
 
 
 ## 🌐 Socials:
