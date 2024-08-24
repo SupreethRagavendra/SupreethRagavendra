@@ -5,6 +5,7 @@
 - Proficient in Java; published booklet "Anne's Rise to Success."<br>
 - Experienced in writing and freelancing on:
  <br>   Android Development
+ <br>   web Development
    <br> Web Design
   <br>  Writing
 
