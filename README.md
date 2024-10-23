@@ -13,7 +13,7 @@
 
   
 
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-23%20Problems%10Solved-%23FF6600?style=for-the-badge&logo=LeetCode)
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-23%10Problems%20Solved-%23FF6600?style=for-the-badge&logo=LeetCode)
 ****
 
 ## 🌐 Socials:
